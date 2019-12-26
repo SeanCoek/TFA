@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.tfa.transform.InvokeInstrumenter</mainClass>
+                            <mainClass>com.tfa.analyzer.RelationAnalyzer</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
